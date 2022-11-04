@@ -21,70 +21,8 @@
 
     
 }
-#maintext   {
-    padding: 40px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: bold;
-    font-size: 30px;
-    color: #ffffff;
-    text-decoration: none;
-    text-align: center;
-    line-height: 0;
-    height: -100px;
-}
-#secondarytext {
-    padding: 40px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: bold;
-    font-size: 50px;
-    color: #ffffff;
-    text-decoration: none;
-    background-color: rgb(1, 11, 98);
-    height: -600px;
-    
-}
-#secindtext {
-    background-color: rgb(1, 11, 98);
-    background-repeat: no-repeat;
-    background-size: 1300px 1100px;
-    background-size: auto;
-}
-    li, a, button {
-        font-family: "Montserrat", sans-serif;
-        font-weight: bold;
-        font-size: 20px;
-        color: #252525;
-        text-decoration: none;
-        background-color: orange;
-     
-    }
-    #Thirdtext {
-        padding: 40px;
-        font-family: "Montserrat", sans-serif;
-        font-weight: bold;
-        font-size: 50px;
-        color: #ffffff;
-        text-decoration: none;
-        background-color: rgb(0, 5, 51);
-        height: -600px;
-        text-align: right;
-        
-    }
-    #Thindtext {
-        background-color: rgb(0, 5, 51);
-        background-repeat: no-repeat;
-        background-size: 1300px 1100px;
-        background-size: auto;
-    }
-        li, a, button {
-            font-family: "Montserrat", sans-serif;
-            font-weight: bold;
-            font-size: 20px;
-            color: #252525;
-            text-decoration: none;
-            background-color: lightskyblue;
          
-        }
+       
      #Nav_Bar {
         display: flex;
         justify-content: space-between;
