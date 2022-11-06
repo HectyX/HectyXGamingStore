@@ -43,6 +43,7 @@
     }
     img {
         max-width: 70px;
+        align-items: center;
         max-height: 70px;
     }
     .logo {
