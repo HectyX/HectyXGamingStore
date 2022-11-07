@@ -25,9 +25,9 @@
        
      #Nav_Bar {
         display: flex;
-       
+        justify-content: space-between;
         align-items: center;
-        padding: 20px 10%;
+        
         background-color: #DF9B1E;
         animation: movedown 0.3s linear 1;
         border-bottom-left-radius: 50px;
