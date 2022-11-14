@@ -28,10 +28,11 @@
         justify-content: space-between;
         align-items: center;
         padding: 20px 10%;
-        background-color: #DF9B1E;
+        
         animation: movedown 0.3s linear 1;
         border-bottom-left-radius: 50px;
         border-bottom-right-radius: 50px;
+        background-color: #DF8B1E;
     }
     @keyframes movedown{
         0%{
@@ -59,14 +60,17 @@
 
     .nav_links {
         list-style: none;
+       background-color: #DF8B1E
     }
 
     .nav_links li {
         display: inline;
         padding: 0px 20px;
+       background-color: #DF8B1E
     }
     .nav_links li a {
         transition: all 0.3s ease 0s;
+       background-color: #DF8B1E
     }
     .nav_links li a:hover {
       color: #1f1e1e;
