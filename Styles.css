@@ -60,17 +60,17 @@
 
     .nav_links {
         list-style: none;
-       background-color: #DF8B1E
+       background-color: #DF8B1E;
     }
 
     .nav_links li {
         display: inline;
         padding: 0px 20px;
-       background-color: #DF8B1E
+       background-color: #DF8B1E;
     }
     .nav_links li a {
         transition: all 0.3s ease 0s;
-       background-color: #DF8B1E
+       background-color: #DF8B1E;
     }
     .nav_links li a:hover {
       color: #1f1e1e;
