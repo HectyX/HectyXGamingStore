@@ -5,7 +5,7 @@
     margin: 0;
     padding: 0;
 
-    background-color: darkblue;
+    background-color: 8B4000;
     }
     #titletext {
     padding: 40px;
@@ -114,6 +114,7 @@
 
     .nav_links {
         list-style: none;
+        background_color: #DF8B1E;
     }
 
     .nav_links li {
