@@ -55,7 +55,7 @@
         font-size: 20px;
         color: #252525;
         text-decoration: none;
-        background-color: lightskyblue;
+        background-color: red;
 
     }
     #Thirdtext {
@@ -90,7 +90,7 @@
         justify-content: space-between;
         align-items: center;
         padding: 20px 10%;
-        background-color: lightskyblue;
+        background-color: #DF8B1E;
         animation: movedown 0.3s linear 1;
         border-bottom-left-radius: 50px;
         border-bottom-right-radius: 50px;
@@ -119,12 +119,15 @@
     .nav_links li {
         display: inline;
         padding: 0px 20px;
+       background_color: #DF8B1E;
     }
     .nav_links li a {
         transition: all 0.3s ease 0s;
+       background_color: darkorange;
     }
     .nav_links li a:hover {
       color: #1f1e1e;
+       background_color: 
     }
     button {
         padding: 9px 25px;
