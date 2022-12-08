@@ -22,7 +22,11 @@
 
 }
     #base {
-    transform: scale(0.5, 0.5);
+         width: 100px;
+         height: 100px;
+         background-color: lightblue;
+         border: 1px solid black;
+         transform: scale(0.5, 0.5);
 
 
 
