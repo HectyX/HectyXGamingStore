@@ -21,6 +21,12 @@
 
 
 }
+    #base {
+    transform: scale(0.5, 0.5);
+
+
+
+}
 #maintext   {
     padding: 40px;
     font-family: "Montserrat", sans-serif;
